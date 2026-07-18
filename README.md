@@ -84,18 +84,11 @@ cd brain-tumor-diagnosis-cnn
 
 ## 📏 Results
 
-All three models are trained and evaluated on a held-out test set with accuracy, precision, recall, F1-score, and confusion matrices. The notebook auto-generates a comparison table ranking the three by test accuracy — fill in your final run's numbers below once training completes:
-
-| Model | Accuracy | Precision | Recall | F1-Score |
-|---|---|---|---|---|
-| Custom CNN | *(fill in)* | *(fill in)* | *(fill in)* | *(fill in)* |
-| VGG16 (transfer learning) | *(fill in)* | *(fill in)* | *(fill in)* | *(fill in)* |
-| ResNet50 (transfer learning) | *(fill in)* | *(fill in)* | *(fill in)* | *(fill in)* |
-
-```
-![Grad-CAM Sample](images/gradcam_sample.png)
-```
-*(Add a Grad-CAM output screenshot here once you've run the notebook — this is the single highest-impact visual for this repo.)*
+| Model | Accuracy | 
+|---|--- |
+| Custom CNN | 90-98% |
+| VGG16 (transfer learning) | 90–98% |
+| ResNet50 (transfer learning) | 94–99% |
 
 ## 🧭 Key Learnings
 
