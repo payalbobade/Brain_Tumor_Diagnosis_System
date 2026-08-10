@@ -86,9 +86,9 @@ cd brain-tumor-diagnosis-cnn
 
 | Model | Accuracy | 
 |---|--- |
-| Custom CNN | 90-98% |
-| VGG16 (transfer learning) | 90–98% |
-| ResNet50 (transfer learning) | 94–99% |
+| Custom CNN | 89.6% – 97.55%|
+| VGG16 (transfer learning) | 94.1% – 98.5% |
+| ResNet50 (transfer learning) | 45.1% – 98.4% |
 
 ## 🧭 Key Learnings
 
