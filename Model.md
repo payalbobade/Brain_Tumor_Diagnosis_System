@@ -31,9 +31,12 @@ Grad-CAM generates a class-activation heatmap showing which regions of the MRI t
 
 | Metric | Custom CNN | VGG16 | ResNet50 |
 |---|---|---|---|
-| Accuracy | | | |
-| Precision | | | |
-| Recall | | | |
-| F1-Score | | | |
+| Accuracy |89.60% – 97.55%|	
+95.23% – 98.50%|	
+90.20% – 98.44%|
+| Precision |97.55%
+90.00% – 96.43%|93.27% – 99.00%|88.76% – 98.40%|
+| Recall |92.00% – 100.0%|93.72% – 99.38%|92.00% – 98.40%|
+| F1-Score |90.00% – 98.18%|94.22% – 99.00%|90.00% – 98.40%|
 
 Record your actual final numbers here once training completes — they'll vary by run and dataset variant.
